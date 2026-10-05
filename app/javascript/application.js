@@ -3,3 +3,4 @@ import "@hotwired/turbo-rails"
 import "controllers"
 
 import "elements/tool_tip";
+import "elements/dropdown";
